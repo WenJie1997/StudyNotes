@@ -208,8 +208,10 @@
 
 ## 4-3
 * a标签可以链接Email地址，使用mailto能让访问者便捷向网站管理者发送电子邮件，mailto还有功能
-* ![](http://img.mukewang.com/52da4f2a000150b714280550.jpg)
-
+![](http://img.mukewang.com/52da4f2a000150b714280550.jpg)
+abc<br>def
+123
+456
 
 ## 4-4
 * 使用`<img>`标签可以插入图片
