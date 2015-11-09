@@ -256,8 +256,7 @@ html4.01写法：`<hr>`
 * 语法：
 
 `<form  method="传送方式"  action="服务器文件">`
-
-`<form>`标签成对出现，以`<form>`开始，`</form>`结束
+* `<form>`标签成对出现，以`<form>`开始，`</form>`结束
 * action:浏览者输入的数据传送到的地方
 * method:数据的传送方式(get/post)
 
