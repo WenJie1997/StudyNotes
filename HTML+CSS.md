@@ -31,7 +31,16 @@
 
 
 ## 1-5
-1. html文件有自己固定的结构</br>`<html>`</br>&nbsp;&nbsp;`<head>……</head>`</br>&nbsp;&nbsp;&nbsp;&nbsp;`<body>……</body>`</br>`</html>`
+1. html文件有自己固定的结构:
+
+```
+<html>
+
+	<head>……</head>
+
+		<body>……</body>
+
+</html>`
 2. `<html></html>`为根标签，所有网页标签都在其中
 3. `<head><head?>`为头部标签，是所有头部元素的容器
 4. `<body></body>`标签之间是网页的主要内容，这里标签中的内容会在浏览器中显示
