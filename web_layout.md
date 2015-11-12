@@ -32,3 +32,13 @@
 * float属性有三个值：left(左浮动)、right(右浮动)、none(不浮动)
 * float特点：元素会移动直至触碰到容器
 * 注意：设置了浮动的元素，仍处于标准文档流，对紧邻其后的元素产生影响
+
+
+* 为了避免浮动对其他元素的影响，可以为被影响元素设置清除浮动
+
+---
+1. clear属性：包含clear:both、clear:left、clear:right
+2. 为元素同时设置宽度width:100%(或固定宽度)+overflow:hidden
+
+
+* 
