@@ -624,7 +624,7 @@ html4.01写法：`<hr>`
 
 
 ## 12-5
-* 层模型有三种形式：绝对定位(poition:absolute)、相对定位(position:relative)、固定定位(position:fixed)
+* 层模型有三种形式：绝对定位(position:absolute)、相对定位(position:relative)、固定定位(position:fixed)
 
 
 ## 12-6
