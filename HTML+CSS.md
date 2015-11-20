@@ -273,7 +273,7 @@ html4.01写法：`<hr>`
 * 语法：
 ```
 <form>
-	<input type="text/password" name="名称" value="文本" 、/>
+	<input type="text/password" name="名称" value="文本" />
 </form>
 ```
 * type="text"，输入框为文本输入框
