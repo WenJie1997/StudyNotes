@@ -28,9 +28,15 @@
 1. html文件有自己固定的结构：
 
 ```
+<!DOCTYPE HTML>
 <html>
-	<head>……</head>
-	<body>……</body>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html"; charset="utf-8">
+		<title>浏览器显示的网页标题</title>
+	</head>
+	<body>
+	浏览器显示的网页内容
+	</body>
 </html>
 ```
 2. `<html></html>`为根标签，所有网页标签都在其中
